@@ -1,0 +1,3 @@
+# Add your verified AdSense publisher record here only after Google provides it.
+# Example format: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Do not publish the example line as your actual publisher record.
